@@ -1,6 +1,6 @@
 #  Pharmacy Frontend (React + Vite)
 
-This is the **frontend** for the pharmacy storefront. It matches the current codebase you shared: **no auth**, local cart in `localStorage`, product browsing by **category**, a simple **checkout** form, and an **Orders** screen that can update/delete orders (no login required).
+This is the **frontend** for the pharmacy storefront. It matches the current codebase i shared: **no auth**, local cart in `localStorage`, product browsing by **category**, a simple **checkout** form, and an **Orders** screen that can update/delete orders (no login required).
 
 ---
 
